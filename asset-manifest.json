@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CinematicTube/static/css/main.fadb8117.css",
+    "main.js": "/CinematicTube/static/js/main.581deabb.js",
+    "static/js/787.39971f94.chunk.js": "/CinematicTube/static/js/787.39971f94.chunk.js",
+    "index.html": "/CinematicTube/index.html",
+    "main.fadb8117.css.map": "/CinematicTube/static/css/main.fadb8117.css.map",
+    "main.581deabb.js.map": "/CinematicTube/static/js/main.581deabb.js.map",
+    "787.39971f94.chunk.js.map": "/CinematicTube/static/js/787.39971f94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fadb8117.css",
+    "static/js/main.581deabb.js"
+  ]
+}
